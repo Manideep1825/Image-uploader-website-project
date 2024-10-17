@@ -1,4 +1,4 @@
-# Image-uploader-website-project
+# Image-uploading-website-project
 Image uploading is one of the main features of any modern web-applications. It allows the user to upload the image or picture on the server.
 
 
